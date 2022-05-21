@@ -96,7 +96,7 @@ DWORD GetProcId(const char* procName)
 }
 
 int main(int argc, const char* argv[]) {
-	SetConsoleTitleA("EzExec FiveM | By MasterDev#6666 | KEKHACK.com | Discord : https://discord.gg/kzveCJmDbG");
+	SetConsoleTitleA("EzExec FiveM | By InkaWeb#6666 | KEKHACK.com | Discord : https://discord.gg/eBNkgWWzSt");
 	clear();
 	string  path;
 	PROCESSENTRY32 pe = { sizeof(PROCESSENTRY32) };
