@@ -8,7 +8,7 @@
 ### Join Discord : https://discord.gg/wJn8zEbG9k
 ### Website : https://fate-shop.fr
 
-#### ![a483d1e7956a2d1010b235d5bef846c6](https://media.discordapp.net/attachments/1070831769277972601/1072304040127504455/gui.gif)
+#### ![a483d1e7956a2d1010b235d5bef846c6]()
 
 
 ## Credit [ Inka Web ]
