@@ -1,5 +1,5 @@
-### FiveM Cheat with TriggersEvent [KEKHACK]
-> This is the ultimate great spoofer to unban you from Fortnite, Apex Legends, BloodHunt, Rainbow Six Siege...
+### Battle Eyes and Easy Anti-Cheat Spoofer (Fate Spoofer)
+> This is the best spoofer for Fortnite, Apex Legends, BloodHunt, Rainbow Six Siege...
 
 
 #### I'm not going to tell you how to use. If you're on Github, you're competent enough to do it.
